@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-vm6o8q.salamcuan.shop/sitemap.xml
